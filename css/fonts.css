@@ -1,0 +1,102 @@
+@font-face {
+  font-family:'Mausoleum';
+  src:url( '../fonts/mausoleum-wght.woff2') format('woff2'),url( 'https://undercase.xyz/media/pages/fonts/mausoleum/fonts/2b0bc0fc4f-1648595223/mausoleum-wght.woff') format('woff'),url( '/media/pages/fonts/mausoleum/fonts/93e9b7c013-1648595234/mausoleum-wght.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 100 900;
+}
+@font-face {
+  font-family:'Royale-with-cheese';
+  src:url( '../fonts/royale.otf') format('opentype');
+  font-style: bold;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'Gooper';
+  font-weight: 900;
+  src: url("../fonts/gooper/Gooper-Black.eot");
+  /* IE9 */
+  src: url("../fonts/gooper/Gooper-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/gooper/Gooper-Black.woff2") format("woff2"), url("../fonts/gooper/Gooper-Black.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Gooper';
+  font-weight: 700;
+  src: url("../fonts/gooper/Gooper-Bold.eot");
+  /* IE9 */
+  src: url("../fonts/gooper/Gooper-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/gooper/Gooper-Bold.woff2") format("woff2"), url("../fonts/gooper/Gooper-Bold.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Gooper';
+  font-weight: 400;
+  src: url("../fonts/gooper/Gooper-Regular.eot");
+  /* IE9 */
+  src: url("../fonts/gooper/Gooper-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/gooper/Gooper-Regular.woff2") format("woff2"), url("../fonts/gooper/Gooper-Regular.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Gooper';
+  font-weight: 600;
+  src: url("../fonts/gooper/Gooper-SemiBold.eot");
+  /* IE9 */
+  src: url("../fonts/gooper/Gooper-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/gooper/Gooper-SemiBold.woff2") format("woff2"), url("../fonts/gooper/Gooper-SemiBold.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Gooper';
+  font-weight: 100;
+  src: url("../fonts/gooper/Gooper-Thin.eot");
+  /* IE9 */
+  src: url("../fonts/gooper/Gooper-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/gooper/Gooper-Thin.woff2") format("woff2"), url("../fonts/gooper/Gooper-Thin.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Gooper';
+  font-weight: 300;
+  src: url("../fonts/gooper/Gooper-Light.eot");
+  /* IE9 */
+  src: url("../fonts/gooper/Gooper-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/gooper/Gooper-Light.woff2") format("woff2"), url("../fonts/gooper/Gooper-Light.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Gooper';
+  font-style: italic;
+  font-weight: 900;
+  src: url("../fonts/gooper/Gooper-BlackItalic.eot");
+  /* IE9 */
+  src: url("../fonts/gooper/Gooper-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/gooper/Gooper-BlackItalic.woff2") format("woff2"), url("../fonts/gooper/Gooper-BlackItalic.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Gooper';
+  font-style: italic;
+  font-weight: 700;
+  src: url("../fonts/gooper/Gooper-BoldItalic.eot");
+  /* IE9 */
+  src: url("../fonts/gooper/Gooper-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/gooper/Gooper-BoldItalic.woff2") format("woff2"), url("../fonts/gooper/Gooper-BoldItalic.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Gooper';
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/gooper/Gooper-RegularItalic.eot");
+  /* IE9 */
+  src: url("../fonts/gooper/Gooper-RegularItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/gooper/Gooper-RegularItalic.woff2") format("woff2"), url("../fonts/gooper/Gooper-RegularItalic.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Gooper';
+  font-style: italic;
+  font-weight: 600;
+  src: url("../fonts/gooper/Gooper-SemiBoldItalic.eot");
+  /* IE9 */
+  src: url("../fonts/gooper/Gooper-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/gooper/Gooper-SemiBoldItalic.woff2") format("woff2"), url("../fonts/gooper/Gooper-SemiBoldItalic.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Gooper';
+  font-style: italic;
+  font-weight: 100;
+  src: url("../fonts/gooper/Gooper-ThinItalic.eot");
+  /* IE9 */
+  src: url("../fonts/gooper/Gooper-ThinItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/gooper/Gooper-ThinItalic.woff2") format("woff2"), url("../fonts/gooper/Gooper-ThinItalic.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Gooper';
+  font-style: italic;
+  font-weight: 300;
+  src: url("../fonts/gooper/Gooper-LightItalic.eot");
+  /* IE9 */
+  src: url("../fonts/gooper/Gooper-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/gooper/Gooper-LightItalic.woff2") format("woff2"), url("../fonts/gooper/Gooper-LightItalic.woff") format("woff"); }
